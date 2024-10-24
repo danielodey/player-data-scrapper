@@ -1,6 +1,6 @@
 ## EPL Player Data Web Scraping and Cleaning (2024-2025)
 
-![Alt text](https://images.app.goo.gl/hw2aJQsm38rTtWxX8)
+![Alt text](https://i.imgur.com/QK76lEe.png)
 
 ## Project Description
 This project extracts and cleans football player data from the 2024-2025 Premier League season using Python. It scrapes player details such as names, teams, dates of birth, heights, and positions from the [worldfootball.net](https://www.worldfootball.net/) website. The data is then cleaned with pandas and exported as a CSV file for further use in analysis or applications.
